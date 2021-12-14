@@ -73,12 +73,11 @@ as I can about everything.
   folderName = "stuffs"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Projects", "https://www.example.com/"],
-    ["Education", "/posts/education.md"],
-    ["Work_Experience", "https://golang.org/"],
-    ["Community_Activities", "/posts/somefile.md"],
-    ["What_People_Say_About_Me", "/posts/reviews.md"],
-    ["What_I_Do_In_My_Freetime", "/posts/freetime.md"],
+    ["Projects", "/posts/projects.md"],
+    ["Work", "/posts/experience.md"],
+    ["Community", "/posts/community.md"],
+    ["Reviews", "/posts/reviews.md"],
+    ["Freetime", "/posts/freetime.md"],
     ["LinkedIn", "https://www.linkedin.com/in/kandonie/"],
   ]
 
