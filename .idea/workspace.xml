@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1481ec-f7b1-47d8-84a4-0408d4ed0dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/tldr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/community.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/experience.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/projects.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/freetime.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/freetime.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/reviews.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/reviews.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/somefile.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/blockquote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/experience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/projects.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +31,34 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="20pk9g13jF3zb0lfYKVJFJilU65" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/posts/images/community_images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/posts/images/community_images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/posts/images/other_images" />
+      <recent name="$PROJECT_DIR$/content/posts/images/community_images" />
+      <recent name="$PROJECT_DIR$/content/posts/images" />
       <recent name="$PROJECT_DIR$/layouts/notposts/" />
       <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/content/posts/freetime_images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,7 +71,8 @@
       <updated>1636748766974</updated>
       <workItem from="1636748769170" duration="10642000" />
       <workItem from="1636762105762" duration="13384000" />
-      <workItem from="1638834251711" duration="11548000" />
+      <workItem from="1638834251711" duration="16551000" />
+      <workItem from="1639349260875" duration="13885000" />
     </task>
     <servers />
   </component>
@@ -88,5 +90,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
