@@ -82,6 +82,17 @@ and map its environment, making smart decisions about which frontier to head tow
 
 ### August - October 2018
 
+My team of three set out to design a robot with a lifter mechanism capable of picking and placing
+"solar panels" on the roofs of model houses. Our design had to meet various specifications,
+including size restrictions and ability to carry panels of different weights. As I was the most
+software-happy person on the team, I developed software classes with the lower-level implementation
+of methods so our code would be cleaner, and we could then contribute to the main state machine
+with user-friendly lines of code such as Robot.moveForward(). By the end of the project, our robot
+met all of our design requirements and satisfactorily completed each of its tasks.
+
+
+**Skills: C++, SolidWorks, mechanical analysis, software-hardware integration**
+
 <br>
 <br>
 <br>
@@ -91,6 +102,20 @@ and map its environment, making smart decisions about which frontier to head tow
 ## Autonomous Firefighting Robot
 
 ### March - May 2018
+
+For this project, a small team and I developed a robot that automonously navigated a maze in search
+of a flame. Upon localizing the flame, the robot used a fan mechanism to extinguish it. We started
+out by creating the mechanical design, taking into consideration how much space we needed for the
+onboard electronics. We selected sensors and motors based on our design requirements. Once we had
+a rough whiteboard design, we used SolidWorks to CAD the parts and either lasercut or 3D-printed
+each piece. After assembling the robot and wiring the electronics, we tested basic functionality
+using simple software programs we wrote, such as moving forward, or turning, or following a wall.
+Incrementally, we developed more complex software with a state machine and non-blocking code, using
+filtered sensor data to feed decisionmaking. In the end, our robot successfully navigated the maze
+and avoided falling off the edge of the table while simultaneously scanning for the fire until it
+found it.
+
+**Skills: C++, sensors, filtering, microcontrollers, hardware-software debugging, SolidWorks**
 
 <br>
 <br>
