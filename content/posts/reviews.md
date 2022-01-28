@@ -1,6 +1,14 @@
 +++
 +++
 
+"I've worked on several projects with Kristen and having her on the team always helped. She learns quickly and always
+gives everything she does 110%. In addition to her great work ethic and technical skills she is a good person who
+gets along well with everyone."
+
+**-Cooper Bennet**, *DEKA*
+
+<br>
+
 "Kristen is probably the coolest person I know. She courageously ventures into the unknown. Her constant
 positivity and ability to evade the fear of failure constantly impress me, and lead her to achieving success.
 She is a talented roboticist/computer scientist and possesses the impressive ability to impart that knowledge
