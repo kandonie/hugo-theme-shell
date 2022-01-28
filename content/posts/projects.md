@@ -46,21 +46,21 @@ and map its environment, making smart decisions about which frontier to head tow
 <br>
 <br>
 
-{{< figure src="../images/project_images/aws.jpg">}}
-
-## AWS Video-Combiner Website
-
-### October - December 2019
-
-<br>
-<br>
-<br>
-
 {{< figure src="../images/project_images/3001.jpg">}}
 
 ## Autonomous Computer Vision Robotic Manipulator
 
 ### January - February 2019
+
+Over the course of 7 weeks, I worked with two other people to create a software control system for a
+robotic manipulator that color-sorted small objects. Using forward and inverse kinematics, we
+programmed the arm both to assume certain angular joint positions as well as to plan trajectories
+to specified positions on our platform. With these steps completed, we then integrated computer
+vision into our project to enable our robot arm to see objects, identify their color, dynamically
+track and follow them as they moved across the platform, pick them up, and place them in a
+designated location based on their color.
+
+**Skills: forward and inverse kinematics, linear algebra, MATLAB, C++, computer vision**
 
 <br>
 <br>
@@ -71,6 +71,20 @@ and map its environment, making smart decisions about which frontier to head tow
 ## BostonHacks Coffee-Bot
 
 ### November 2018
+
+During a 24-hour hackathon, my team decided we wanted to produce a robot rather than a pure-software
+product. We knew that mornings are hard, and sometimes people just want to get out of bed to a cup
+of coffee that's already waiting for us: that's why we created the Coffee-Bot, an integrated
+alarm-and-coffee-maker system that has hot coffee waiting for you when your wakeup alarm goes off.
+We got an off-the-shelf coffee maker and attached a servo motor to go off and push the "brew"
+button when an alarm signal is received. My main contribution to the team was designing and
+troubleshooting the firmware and circuitry. At one point, the servo wasn't responding to the PWM
+signal we were sending, and probing the circuit revealed the voltage we were receiving was too low,
+so I designed an op amp comparator circuit to amplify the signal. With everything integrated, the
+Coffee-Bot worked as intended and our team earned an award for "Best Integration of a Qualcomm
+DragonBoard 410c"!
+
+**Skills: circuit design, electrical troubleshooting, firmware**
 
 <br>
 <br>

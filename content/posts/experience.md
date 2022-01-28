@@ -9,11 +9,13 @@
 
 At Lockheed Martin, I work on testing, developing, and maintaining a high-fidelity weapon controls
 simulation for the US Navy's missile defense system. My work has included increasing automated tasks
-in our daily software testing, investigating issues through root cause analysis, and extending
-features to improve the simulation. I have gained experience using a variety of Eclipse and
-commandline tools to navigate and debug a very large codebase with over half a million lines of code.
+in our daily software testing, investigating issues through root cause analysis, performing 
+code reviews, and extending features to improve the simulation. I have gained experience using a
+variety of Eclipse and commandline tools to navigate and debug a very large codebase with over
+half a million lines of code. I have also worked on troubleshooting electrical hardware and identifying
+the cause of circuit test failures.
 
-**Skills: git, linux, gdb, C++, python, JIRA, Jenkins, Valgrind, Coverity, regression testing, Eclipse**
+**Skills: git, linux, gdb, C++, python, JIRA, Jenkins, Valgrind, Coverity, regression testing, Eclipse, circuit troubleshooting**
 
 <br>
 <br>
